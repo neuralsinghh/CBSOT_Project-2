@@ -1,6 +1,3 @@
-Yes, Astaad. **Replace the entire current `README.md` with this one.** This documents the **whole project**, not only our added feature.
-
-````markdown
 # NLP-Powered Semantic Search Engine for ML Research Papers
 
 An NLP and Machine Learning project that explores, processes, and semantically searches Machine Learning research papers.
